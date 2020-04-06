@@ -3,7 +3,7 @@ Python script created using PyAutoGUI to simulate random mouse and keyboard move
 
 ## About
 
-Just a quick script for bantz and to practice my Python skillz.
+Just a quick script for bantz and to practice my Python skillz. I guess indirectly inspired by Coronavirus situation and the majority of office workers now working from home.
 
 ## How to use
 
