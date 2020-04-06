@@ -12,15 +12,16 @@ Literally just run the script using terminal or your IDE, and it will loop throu
 To make and error and stop the script simply drag your mouse into the top-left hand corner of the screen.
 
 ## FAQs
-Is this serious/Do you work somewhere that monitors your mouse movements?
+
+**Is this serious/Do you work somewhere that monitors your mouse movements?**
 
 No, it's just a bit of fun on a longstanding "joke" about looking busy at work by never going to inactive/away on chat software except for meetings/lunch.
 
 ## Further Reading
 
-https://github.com/asweigart/pyautogui 
+- https://github.com/asweigart/pyautogui 
 
-https://pyautogui.readthedocs.io/en/latest/
+- https://pyautogui.readthedocs.io/en/latest/
 
 
 
