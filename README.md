@@ -31,13 +31,18 @@ No...well not that I know of :-D
 
 It's just a bit of fun on a longstanding "joke" about looking busy at work by never going to inactive/away on chat software except for meetings/lunch.
 
-## How
+## How else could this script be improved
+
+This is just a quick proof of concept I bashed out in about an hour or so. Subsequently V1 seems to fail surprisingly often :-(
+
+V2 would hopefully query the screen dimensions and pass this as the random integer range, and I would also probably make use of the centre screen location function I only just realised exists.
+
+I don't know if I would perist with the scroll function either, but it's good to have it there as an example.
 
 ## Further Reading
 
-- Official git of PyAutoGUI https://github.com/asweigart/pyautogui 
+- Official git of PyAutoGUI: https://github.com/asweigart/pyautogui 
 
-- Office Website of PyAutoGUI https://pyautogui.readthedocs.io/en/latest/
+- Office Website of PyAutoGUI: https://pyautogui.readthedocs.io/en/latest/
 
-
-
+- Random Library:  https://docs.python.org/2/library/random.html
